@@ -1,0 +1,2 @@
+model_checkpoint_path: "a2c_torso_pid1"
+all_model_checkpoint_paths: "a2c_torso_pid1"

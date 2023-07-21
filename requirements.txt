@@ -1,0 +1,11 @@
+# required pyhton packages
+# install via this command:
+#   pip3 install -r requirements.txt
+
+dill
+wandb
+tensorflow
+nashpy
+matplotlib
+cvxopt
+cvxpy

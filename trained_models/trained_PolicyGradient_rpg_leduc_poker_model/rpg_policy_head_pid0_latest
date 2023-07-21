@@ -1,0 +1,2 @@
+model_checkpoint_path: "rpg_policy_head_pid0"
+all_model_checkpoint_paths: "rpg_policy_head_pid0"

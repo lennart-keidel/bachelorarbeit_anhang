@@ -1,0 +1,2 @@
+model_checkpoint_path: "rpg_q_head_pid1"
+all_model_checkpoint_paths: "rpg_q_head_pid1"

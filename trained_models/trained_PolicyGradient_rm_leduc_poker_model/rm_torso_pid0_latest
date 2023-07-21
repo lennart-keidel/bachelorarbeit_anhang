@@ -1,0 +1,2 @@
+model_checkpoint_path: "rm_torso_pid0"
+all_model_checkpoint_paths: "rm_torso_pid0"
