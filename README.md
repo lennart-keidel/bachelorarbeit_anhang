@@ -2,7 +2,7 @@
 
 **Dies ist der Anhang zur Bachelorarbeit.**
 
-**Alternativer Download Link:** [https://github.com/lennart-keidel/bachelorarbeit_anhang](https://github.com/lennart-keidel/bachelorarbeit_anhang)
+**Bachelorarbeit:** "Abschlussarbeit.pdf" hier herunterladen und in PDF-Viewer oder Browser öffnen
 
 **Titel:** Maschinelles Lernen in Kartenspielen mit imperfekten Informationen
 
